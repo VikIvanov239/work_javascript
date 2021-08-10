@@ -1,1 +1,1 @@
-alert("AAA")
+alert("BBB")

@@ -7,6 +7,23 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/vikto/Desktop/Project/support/Sublime Hints.txt",
+			"settings":
+			{
+				"buffer_size": 1121,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Jawa_hints/learning java.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -52,10 +69,13 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Dell/Desktop/Project/задачки javascript"
+		"/C/Users/vikto/Desktop/Project/work_javascript",
+		"/C/Users/vikto/Desktop/Project/work_javascript/Jawa_hints"
 	],
 	"file_history":
 	[
+		"/C/Users/vikto/Desktop/Project/work_javascript/exersice.js",
+		"/C/Users/vikto/Desktop/Project/support/support.sublime-project",
 		"/C/Users/Dell/Desktop/Project/Sublime Hints.txt",
 		"/C/Users/Dell/Desktop/Project/js-learning/08_Constructor.js",
 		"/C/Users/Dell/Desktop/Project/Web developer.txt",
@@ -98,6 +118,65 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/vikto/Desktop/Project/support/Sublime Hints.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1121,
+								1121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Jawa_hints/learning java.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
